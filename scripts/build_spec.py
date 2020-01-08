@@ -47,7 +47,7 @@ from dataclasses import (
 
 from eth2spec.utils.ssz.ssz_impl import hash_tree_root
 from eth2spec.utils.ssz.ssz_typing import (
-    SSZType, Container, List, Vector, ByteList, ByteVector, Bitlist, Bitvector,
+    SSZType, Container, List, Vector, ByteList, Bitlist, Bitvector,
     Bytes1, Bytes4, Bytes8, Bytes32, Bytes48, Bytes96,
     uint64, uint8, bit, boolean,
 )
